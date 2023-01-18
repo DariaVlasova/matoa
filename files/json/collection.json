@@ -1,0 +1,114 @@
+{
+    "collections":[
+        {
+            "id":1,
+            "title":"Way Kambas Maple",
+            "image":"img/collection/maple/7.png",
+            "price":{
+                "value":"Rp 1.280.000"
+                
+            }, 
+            "old-price":"Rp 1.580.000",
+            "category":1,
+            "url":"https://google.com"
+        },
+        {
+            "id":2,
+            "title":"Kaili",
+            "image":"img/collection/maple/8.png",
+            "price":{
+                "value":"Rp 950.000"
+               
+            }, 
+            "old-price":"Rp 1.580.000",
+            "category":1,
+            "url":"https://google.com"
+        },
+        {
+            "id":2,
+            "title":"Sunda",
+            "image":"img/collection/maple/9.png",
+            "price":{
+                "value":"Rp 950.000"
+               
+            }, 
+            "old-price":"Rp 1.580.000",
+            "category":1,
+            "url":"https://google.com"
+        },
+               {
+            "id":4,
+            "title":"Tomia Ebony",
+            "image":"img/collection/ebony/4.png",
+            "price":{
+                "value":"Rp 960.000",
+                "oldValue":"Rp 1.280.000"
+            }, 
+            "old-price":"Rp 1.280.000",
+            "category":2,
+            "url":"https://google.com"
+        },
+        {
+            "id":5,
+            "title":"Mori",
+            "image":"img/collection/ebony/5.png",
+            "price":{
+                "value":"Rp 950.000"
+               
+            }, 
+            "old-price":"Rp 1.280.000",
+            "category":2,
+            "url":"https://google.com"
+        },
+        {
+            "id":6,
+            "title":"Alor",
+            "image":"img/collection/ebony/6.png",
+            "price":{
+                "value":"Rp 1.170.000"
+               
+            }, 
+            "old-price":"Rp 1.280.000",
+            "category":2,
+            "url":"https://google.com"
+        },
+        {
+            "id":7,
+            "title":"Sikka (Ebony & Maple)",
+            "image":"img/collection/featured/3.png",
+            "price":{
+                "value":"Rp 960.000"
+                
+            }, 
+            "old-price":"Rp 1.280.000",
+            "category":3,
+            "url":"https://google.com"
+        },
+        {
+            "id":8,
+            "title":"Lore Walnut",
+            "image":"img/collection/featured/2.png",
+            "price":{
+                "value":"Rp 950.000"
+               
+            }, 
+            "old-price":"Rp 1.280.000",
+            "category":3,
+            "url":"https://google.com"
+        },
+        {
+            "id":9,
+            "title":"Way Kambas Limited Edition",
+            "image":"img/collection/featured/1.png",
+            "price":{
+                "value":"Rp 1.170.000"
+               
+            }, 
+            "old-price":"Rp 1.280.000",
+            "category":3,
+            "url":"https://google.com"
+        }
+
+
+    ]
+}
